@@ -1,2 +1,1 @@
-# AI-For-Python.
-AI-For-Python
+# Learn-Python-Using-AI.
